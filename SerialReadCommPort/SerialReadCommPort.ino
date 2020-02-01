@@ -1,6 +1,4 @@
 byte data [10] = {1, 2, 3 , 4, 5, 6, 7, 8, 9, 10};
-byte d;
-int elements = 1;
 int potval = 124;
 
 void setup() {
