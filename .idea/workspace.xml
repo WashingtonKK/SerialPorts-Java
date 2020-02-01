@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dfc2f472-bd8e-4138-8b46-403fafee992a" name="Default Changelist" comment="" />
+    <list default="true" id="dfc2f472-bd8e-4138-8b46-403fafee992a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/washkk/function/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/washkk/function/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/washkk/serial/Serial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/washkk/serial/Serial.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../SerialPorts\exportToHTML" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -14,7 +22,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XATbBph7rnByYOfqf4cZqJLuRD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +34,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Documents/jawa/jSerialComm-2.5.3.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -81,29 +94,37 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="389" y="109" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1580488049273" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1580494976530">
+    <state width="1323" height="160" key="GridCell.Tab.0.bottom" timestamp="1580545456123">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580494976530" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1580494976530">
+    <state width="1323" height="160" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580545456123" />
+    <state width="1323" height="160" key="GridCell.Tab.0.center" timestamp="1580545456123">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580494976530" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1580494976530">
+    <state width="1323" height="160" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580545456123" />
+    <state width="1323" height="160" key="GridCell.Tab.0.left" timestamp="1580545456123">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580494976530" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1580494976530">
+    <state width="1323" height="160" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580545456123" />
+    <state width="1323" height="160" key="GridCell.Tab.0.right" timestamp="1580545456123">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580494976530" />
+    <state width="1323" height="160" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580545456123" />
     <state x="163" y="0" key="SettingsEditor" timestamp="1580488058391">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1580488058391" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1580494597882">
+    <state x="390" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1580537830911">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1580494597882" />
+    <state x="390" y="192" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1580537830911" />
+    <state x="0" y="0" key="new project wizard" timestamp="1580498146974">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1580498146974" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1580544293498">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1580544293498" />
   </component>
 </project>
